@@ -1,2 +1,2 @@
-# Mniproj
+# Miniproject
 Hello
